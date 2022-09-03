@@ -2,19 +2,11 @@
 
 
 /node_modules
-/node_modules
 /build
 
-API/node_modules
-Front/node_modules
-Front/build
-/API/
-API/
 
-API/package-lock.json
-Front/package-lock.json
-/API/package-lock.json
-/Front/package-lock.json
+
+
 
 # misc
 .DS_Store
