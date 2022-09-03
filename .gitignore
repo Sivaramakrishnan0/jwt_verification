@@ -8,6 +8,8 @@
 API/node_modules
 Front/node_modules
 Front/build
+/API/
+API/
 
 API/package-lock.json
 Front/package-lock.json
