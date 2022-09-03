@@ -1,9 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-API/node_modules
-Front/node_modules
-Front/build
+/API/node_modules
+/Front/node_modules
+/Front/build
 /.pnp
 .pnp.js
 
