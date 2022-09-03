@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+
+/node_modules
+/node_modules
+/build
+
+API/node_modules
+Front/node_modules
+Front/build
+/API/
+API/
+
+API/package-lock.json
+Front/package-lock.json
+/API/package-lock.json
+/Front/package-lock.json
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
