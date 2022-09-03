@@ -8,7 +8,7 @@ function Check(){
     var [details,setDetails]=useState({});
     var navigate=useNavigate();
     useEffect(()=>{
-        
+        console.log("demo")
         var temp=localStorage.getItem('auth');
         if(temp===null||temp===undefined){
             navigate("/");
